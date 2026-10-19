@@ -1,0 +1,6 @@
+{
+  "name": "Sunketh Tours",
+  "description": "Where every journey feels like a dream. Premier Sri Lanka tour operator with custom multi-day journeys, interactive Sri Lankan route maps, airport transfers, and 24/7 chauffeur services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
